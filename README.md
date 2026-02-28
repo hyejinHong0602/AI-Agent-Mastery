@@ -1,7 +1,7 @@
 
 # 🤖 AI Agent Engineering Study
 
-> **"지능형 에이전트 설계부터 구현까지"** > 『AI 에이전트 엔지니어링』 도서를 학습하며, 매일 코드로 증명하고 기록하는 저장소입니다.
+> **"지능형 에이전트 설계부터 구현까지"** > 『AI 에이전트 엔지니어링』 도서를 학습하며, 매일 코드로 증명하고 기록하는 레포지토리
 
 ## 📅 학습 목표
 - **1일 1커밋**: 매일 에이전트 설계 패턴 구현 또는 이론 정리
@@ -12,7 +12,7 @@
 
 ## 🛠 Tech Stack
 - **Language**: Python
-- **Framework**: LangChain / LangGraph (본인이 공부하는 프레임워크로 수정)
+- **Framework**: LangChain / LangGraph
 - **Model**: OpenAI GPT-4o / Claude 3.5 Sonnet
 - **Tools**: Tavily Search, Python Interpreter, etc.
 
@@ -40,6 +40,5 @@
 ## 🚀 나만의 에이전트 프로젝트 (Backlog)
 - [ ] 기술 뉴스 자동 요약 및 분석 에이전트
 - [ ] 깃허브 레포지토리 코드 리뷰 에이전트
-- [ ] (아이디어를 추가해 보세요!)
 
 ---
